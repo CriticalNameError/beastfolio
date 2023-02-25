@@ -16,6 +16,8 @@ onnx-tf = "==1.8"
 tensorflow = "==1.15"
 tensorflow-addons = "==0.13"
 torch = "==1.8.1"
+jupyter = "*"
+pyzmq = "==19.0.2"
 
 [requires]
 python_version = "3.7.0"
