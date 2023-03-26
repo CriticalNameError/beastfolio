@@ -18,6 +18,7 @@ tensorflow-addons = "==0.13"
 torch = "==1.8.1"
 jupyter = "*"
 pyzmq = "==19.0.2"
+pylatex = "*"
 
 [requires]
 python_version = "3.7.0"
