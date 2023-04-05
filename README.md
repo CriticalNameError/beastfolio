@@ -1,6 +1,8 @@
 
 # 👨‍🎓 Master thesis: A Solution to the Long-Term Asset Allocation Problem with Reinforcement Learning
 This is a brief overview over the project and how to get started with it.
+## ⤵ Download Repo
+The repo is publicly available and can be cloned from https://github.com/CriticalNameError/beastfolio.git
 ## 🌱 Installation
 All necessary information to set up the python environment are stored in the Pipfile that is located in the root directory of this project.
 ## 👨‍💻 Where is the code?
